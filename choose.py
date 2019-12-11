@@ -1,17 +1,18 @@
+# run with $ python3 choose.py
+
 read_file = open("test.txt","r")
 write_file = open("test1.txt","w+")
 
 titles = []
 wrongInputs = []
 
-print("The title of a book will be displayed. Enter a 'y' if you think it is a self-help book. Otherwise enter 'n'. Enter 'x' to exit the program safely.")
+print("The title of a book will be displayed. \nEnter a 'y' if you think it is a self-help book. \nOtherwise enter 'n'. \nEnter 'x' to exit the program safely.")
 
 if read_file.mode == 'r':
     lines = read_file.readlines()
     for x in lines:
         print(x)
-        choice = input("Y or N?")
-        print(choice)
+        choice = input()
         if choice == "y":
             write_file.write(x)
         elif choice == "n":
@@ -21,7 +22,7 @@ if read_file.mode == 'r':
         else:
             wrongInputs.append(x)
 
-write_file.write("Here are the choices you entered an invalid input on\n\n")
+write_file.write("\nHere are the choices you entered an invalid input on:")
 for x in wrongInputs:
     write_file.write(x)
 
