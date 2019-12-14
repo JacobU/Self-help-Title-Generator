@@ -14,13 +14,10 @@
 read_file = open("titles.txt","r")
 write_file = open("titles_nodup.txt","w+")
 
-titles = []
-
 if read_file.mode == 'r':
     lines = read_file.readlines()
-    for x in lines:
-        if not x in titles:
-            titles.append(x)
+
+    titles = [x for x in lines if not x in titles]
 
     for x in titles:
         write_file.write(x)
