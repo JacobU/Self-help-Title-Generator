@@ -207,7 +207,7 @@ Deep Work
 Happy Lemons
 The Road From Space
 Space Clearing for Your Home and Soul
-Corporate Ninja - attract what you want and play the game to win!
+Corporate Ninja
 Essentialism
 There's No Plan B for Your A-Game
 The Re-enchantment of Everyday Life
@@ -225,7 +225,7 @@ The Willpower Instinct
 The Undefeated Mind
 Brain Rules
 Chicken Soup for the Soul
-Instant Goals - How to Set Goals and Achieve Them Instantly!
+Instant Goals
 The Wisdom of Insecurity
 The Art of War
 Change Anything
@@ -347,7 +347,7 @@ Let Go Courageously and Live with Love
 The Five Paths to Happiness
 Decoding Your Dreams
 FearFlip
-Know Thyself - Unraveling the Mystery of Mind
+Know Thyself
 Sacred Selfishness
 Designer Mindset
 Tools of Titans
@@ -384,7 +384,7 @@ The Way to Love
 Seven practical ways to self-confidence
 Leaders Get Up
 The Actions
-Think Like a Winner - ACT Like You Won
+Think Like a Winner
 Small Habits=Big Results
 Guidebook to Your Heart
 Your Energy Works
@@ -474,7 +474,7 @@ Think and Grow Rich
 Unlimited
 Get What You Want
 The Book of Good Practices
-Instant Productivity - How to Be Productive to Get Things Done Easier and Faster Instantly!
+Instant Productivity
 The Achievement Habit
 Shoot for the Moon
 Yes Man
@@ -495,7 +495,7 @@ The Power of Myth
 It's Your Time
 In Your Element
 The Art of Deception
-Instant Connection - How to Build Rapport with Anyone Instantly!
+Instant Connection
 Calm
 Mental Traps
 Mindset
@@ -524,7 +524,7 @@ The Professor Is In
 Radical Candor
 The Civility Solution
 The Way of the Bodhisattva
-Instant Habits - How to Break Bad Habits and Form Good Habits Instantly!
+Instant Habits
 Battlefield of the Mind
 Success
 Mind Over Mood
@@ -533,7 +533,7 @@ Playing Ball on Running Water
 Love Is a Verb
 Breaking Free
 To Live in the World as Ourselves
-Instant Confidence - How to Be Confident Instantly!
+Instant Confidence
 Sink Reflections
 Gift from the Sea
 Taking the Leap
@@ -543,11 +543,8 @@ Treasure Yourself
 It's My Life Now
 The Little Book of Personal Development
 The Power of Intention
-The Kindness Method
-The Mindful Way through Depression
-The Way of the Superior Man
-Wild at Heart
-Instant Communication Skills - How to Improve Communications Skills Instantly!
+The Kindness MethodHow to Get More Energy Instantly!
+Instant Communication Skills
 The Tao of Daily Life
 One Tech Action
 The Mindbody Prescription
@@ -555,7 +552,7 @@ Why Can't I Get What I Want?
 Infinite Potential
 The Marshmallow Test
 Ordering Your Private World
-Instant Energy - How to Get More Energy Instantly!
+Instant Energy
 Mount Up on Wounded Wings
 The Good Work Book
 Recovering Intimacy
@@ -610,7 +607,7 @@ People Skills
 There Is Nothing Wrong with You
 Clear Your Clutter With Feng Shui
 First Things First
-Change Your Thoughts - Change Your Life
+Change Your Thoughts, Change Your Life
 Change Your Brain, Change Your Life
 Now, Discover Your Strengths
 Flow
@@ -622,10 +619,10 @@ Thinking, Fast and Slow
 Drive
 Poor Richard's Almanack
 The New Psycho-Cybernetics
-Success and Happiness - Quotes to Motivate Inspire & Live by
+Success and Happiness
 Massive Action Equal Massive Results
 Explosive Growth
-Procrasdemon - The Artist's Guide to Liberation From Procrastination
+Procrasdemon
 The Extremely Successful Salesman's Club
 The Wonderful Spirit Filled Life
 Flowerevolution
@@ -680,7 +677,7 @@ The American Dream, Revisited
 Choose To Be Happy
 Get Busy Make Money
 Better Than Before
-A Path to Wisdom - How to Live a Balanced, Healthy and Peaceful Life
+A Path to Wisdom
 Handbook to Higher Consciousness
 Intersection Inc.
 Feed Your Brain, Lose Your Belly
@@ -728,7 +725,7 @@ Knowing the Struggle Is Over!
 How to Take Charge of Your Life
 From Rats to Riches
 Rewire Your Brain For Love
-The Great Life Redesign - change how you work, live how you dream and make it happen today
+The Great Life Redesign
 If You Want to Write
 Surviving Your Worst Nightmare
 Get the Life You Want
@@ -754,12 +751,12 @@ Learn With Mind Maps
 Leap of Faith
 The One-Day Contract
 The Daily Thanks
-39 Day Lifescape-Become a Better You
+39 Day Lifescape
 Career Compass
 Brain Matters in Business
 All I Know
 The Productive Person
-Laid Off and Crazy Happy - Memoirs of a Houseband
+Laid Off and Crazy Happy
 The Light in Your Pocket
 Be Your [Better] Self
 Get Me Skinny
@@ -949,7 +946,7 @@ Spirituality 101 for Dropouts in the School of Life
 Eat That Frog!
 Manifesting for Simpletons
 The Hope Handbook for Mentors and Coaches
-Simple Living - 30 days to less stuff and more life
+Simple Living
 Money Moves That Matter
 Excellence of Patience & Gratefulness
 Surviving Your Stupid Stupid Decision to Go to Grad School
@@ -1056,7 +1053,7 @@ The Centurion's Wife
 The Little Book of Coaching
 Enjoy Your Life
 Notes to Myself
-Culture of Revival - A Revivalist Field Manual
+Culture of Revival
 What Now?
 The Art of Asking; or, How I Learned to Stop Worrying and Let People Help
 Mojo
@@ -1072,7 +1069,7 @@ Life Without Limits
 Quit Your Job
 Inside Job 8 Secrets to Loving Your Work and Thriving
 Say What You Mean/Get What You Want
-Self Growth - 2
+Self Growth
 Zen as F*ck
 The Source
 Switch
@@ -1201,7 +1198,7 @@ E-Go
 Outcome
 50 Things To Do When You Turn 50
 Blogging in One Hour for Lawyers
-Ten Questions - The Insider's Guide to Saving Money on Auto Insurance
+Ten Questions
 Climb that Fence and take that Leap
 The Power of Full Engagement
 It's Your Life, Live BIG
@@ -1233,7 +1230,7 @@ Reinventing Your Life
 The Wellness Blueprint
 Simple Matters
 Life Admin
-Sometimes You Win--Sometimes You Learn
+Sometimes You Win, Sometimes You Learn
 People Centricity
 Unashamed
 My Eyes & My Hair
@@ -1255,7 +1252,7 @@ First Job? Coping With Starting Work, Your First Month Survival Guide
 12 Steps to Freedom
 The Ultimate Gift
 How to Be Happier Day by Day
-Heroic Quest- A simple guide to happiness
+Heroic Quest
 Zapp! The Lightning of Empowerment
 Business Fitness
 The Unemployed Guy's Guide to Unemployment
@@ -1302,7 +1299,7 @@ Escape from Cubicle Nation
 The 7 Habits for Managers
 The 80/20 Principle
 Think Big
-How to Live a Positive life - The 5 Keys
+How to Live a Positive life
 Take Control Of Your Life
 A New Guide to Rational Living
 The Automatic Millionaire
